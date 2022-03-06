@@ -12,7 +12,7 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
-🔍 Build a Back end app for Ecommerce sight Using Express.js and configure it to interact iwth mySQL and Sequelize
+🔍 Build a Back end app for Ecommerce sight Using Express.js and configure it to interact iwth mySQL and Sequelize. You can view a video demonstration by clicking the youtube link https://youtu.be/F9vxUNpU00k
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
