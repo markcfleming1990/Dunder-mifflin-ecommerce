@@ -1,4 +1,4 @@
-<h1 align=center>ORM Sequelize Ecommece Back End</h1> 👋
+<h1 align=center>ORM Sequelize Ecommece Back End 👋</h1>
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/markcfleming1990/README-generator" />
     <img src="https://img.shields.io/github/languages/top/jpd61/README-generator"  />
